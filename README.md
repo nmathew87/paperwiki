@@ -1,4 +1,4 @@
 paperwiki
 =========
 
-Citation search engine for robotics papers
+A literature review search engine for robotics research
